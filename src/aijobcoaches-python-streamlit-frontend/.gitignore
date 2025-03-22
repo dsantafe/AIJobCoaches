@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+sections/__pycache__/
+auth/__pycache__/
+utils/__pycache__/
+*.pyc
+.env

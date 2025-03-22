@@ -1,7 +1,7 @@
 ![Banner](./assets/banner.png)
 
 # MentorIA+: Inclusion and accessible learning for career success
-<a href="https://youtu.be/_TIvRRH0OMY" target="blank">
+<a href="https://youtu.be/jfqNPLSeQU0" target="blank">
 	<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="DataVerse" height="23px" width="33px" />
 	Watch in Action
 </a>
